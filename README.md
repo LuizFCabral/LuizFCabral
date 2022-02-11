@@ -1,7 +1,6 @@
 ## Olá, sou Luiz Felipe, estudante do Instituto Federal de São Paulo, Campus Salto. E estou em busca de conhecimento.
 <div align="center">
   <a href="https://github.com/LuizFCabral">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFCabral&show_icons=true&theme=dracula&title_color=green&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,6 +15,7 @@
   ##
   
   <div>
+    <p>Conhecimentos</p>
     <a href="mailto:luizfelipe.cabralsouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </div>
   
