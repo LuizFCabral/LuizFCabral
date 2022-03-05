@@ -1,7 +1,5 @@
-## Olá, sou Luiz Felipe, estudante do Instituto Federal de São Paulo, Campus Salto. E estou em busca de conhecimento.
-<div align="center">
-  <a href="https://github.com/LuizFCabral">
-</div>
+## Olá, sou Luiz Felipe, estudante de ADS(Analise e desenvolcimento de Sistema) na Fatec-Itu  . E estou em busca de abranger meus conhecimentos na area de TI.
+
 <div style="display: inline_block"><br>
   <h1>Conhecimentos</h1> <br>
   <img align="center" alt="Luiz-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
