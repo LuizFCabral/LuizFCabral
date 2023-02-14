@@ -1,4 +1,4 @@
-## Olá, sou Luiz Felipe, estudante de ADS(Analise e desenvolcimento de Sistema) na Fatec-Itu  . E estou em busca de abranger meus conhecimentos na area de TI.
+## Olá, sou Luiz Felipe, estudante de ADS(Analise e desenvolvimento de Sistema) na Fatec-Itu  . E estou em busca de abranger meus conhecimentos na area de TI.
 
 <div style="display: inline_block"><br>
   <h1>Conhecimentos</h1> <br>
